@@ -28,7 +28,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [빙글](http://www.vingle.net/){: .article data-tags="rails ing" }
 - [산타 포 토익!](http://santatoeic.co/){: .article data-tags="rails ing backend"}([Android](https://goo.gl/6Ao55Z), [iOS](https://goo.gl/ptz6e9))
 - [쇼미더머니](http://smtm5.xyz){: .article data-tags="rails ing"}
-- [수퍼 크리에이티브](http://www.supercreative.kr/){: .article data-tags="ruby ing backend"}
+- [에픽세븐](http://cafe.naver.com/epic7){: .article data-tags="ruby ing backend"}
 - [스냅샵](https://gosnapshop.com/){: .article data-tags="rails ing" }
 - [스탬프팡](http://stampang.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
